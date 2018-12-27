@@ -23,3 +23,9 @@ var katzDeli = [];
     return `The line is currently:` + array;
   }
 }
+
+
+
+
+function takeANumber(line)
+
