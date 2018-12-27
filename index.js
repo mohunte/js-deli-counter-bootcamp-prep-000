@@ -27,7 +27,9 @@ var katzDeli = [];
 
 
 var ticketNumber =[]
-function takeANumber(line){
+function takeANumber(line){ // line = []
+// line = [1]
+// line = [1,2]
   ticketNumber.push(line)
   
   return "Welcome! You're ticket number #1"
